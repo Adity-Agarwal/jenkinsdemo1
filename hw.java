@@ -1,5 +1,3 @@
-package Calculator;
-
 public class hw {
 
 	public int add(int a , int b){
